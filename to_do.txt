@@ -1,0 +1,19 @@
+徐梓鈞
+responsible for build start menu
+
+:including game title, start button, user's input to decide level from 1 to 3
+	      , show high score ranking (you get from the data from  a function that 黃中詮 makes and you show it to display)
+
+黃中詮（コウ）
+responsible for output of gameover 
+
+:create system when greenball arrives at the limited line, gives users message "game over", 
+ and at the same time,gives users a score (it depends on time until game over), and save data. but in order to show ranking, data needs to be sorted(?)
+
+
+勝又崇馬 
+responsible for ball and bullet
+
+:create function that control the number of ball and ball speed ,depending on level.
+ if bullet bump into grrenball, delete greenball. 
+ turn the ball and player into more cool ones. and more cool background.

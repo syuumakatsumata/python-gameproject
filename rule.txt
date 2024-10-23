@@ -1,0 +1,11 @@
+Objective: The goal of the game is to survive as long as possible by shooting the incoming targets before they reach the left side of the screen.
+
+Controls: Use the Up and Down arrow keys to move your player up and down on the screen. Use the Space bar to fire bullets at the incoming targets.
+
+Scoring: The score is determined by how long you survive in the game. The longer you play without a target reaching the left side of the screen, the higher your score.
+
+Levels: The game has three levels, each with increasing difficulty. The higher the level, the faster the targets move across the screen.
+
+Game Over: The game ends when a target reaches the left side of the screen. When the game ends, the time you survived (your score) is displayed and saved.
+
+Saved Scores: The game saves your survival times (scores) for each level. You can view these scores from the starting page of the game.

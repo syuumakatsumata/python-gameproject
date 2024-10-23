@@ -1,0 +1,1 @@
+users have to install this package : pygame2.5.0
