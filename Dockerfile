@@ -13,8 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # プロジェクト全体をコンテナにコピー
 COPY . .
 
-# ポートの指定（もしWebアプリなら必要です）
-# EXPOSE 5000  # 例: Flaskアプリの場合
-
 # デフォルトで実行するコマンド
 CMD ["python", "main.py"]
